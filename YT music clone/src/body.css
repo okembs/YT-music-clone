@@ -1,0 +1,57 @@
+.div1{
+    height:20rem;
+    width:100%;
+    background: ghostwhite;
+    padding:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:block;
+
+}
+
+
+textarea{
+    height:10rem;
+    width:30rem;
+    border:none;
+    background: ghostwhite;
+    padding:2px;
+    transition: all 0.3s ease-in-out;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:2px solid black;
+    
+}
+
+select{
+    height:2rem;
+    width:15rem;
+    margin:10px;
+    border:2px solid blue;
+    border-radius: 20px;
+    gap:10px;
+}
+option{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    gap:10px;
+    border-radius: 10px;
+
+}
+
+button{
+    height:3rem;
+    width:7rem;
+    background: blue;
+    color: #f8f8ff;
+    font-weight: bold;
+    border: none;
+    transition: all 0.3s ease;;
+}
+button:focus{
+    border-radius: 10px;
+}
+
+.div3{
+    height:10rem;
+    width:100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
